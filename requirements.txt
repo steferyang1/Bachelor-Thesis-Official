@@ -1,0 +1,4 @@
+numpy==1.26.4
+Pillow>=10.4.0
+psychopy>=2024.2.1
+pylsl>=1.16.2
